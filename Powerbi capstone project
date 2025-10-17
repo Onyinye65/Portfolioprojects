@@ -1,1 +1,46 @@
+# Global Electronic dashboard
+
+
+# Data Used
+**Data**-Mavin's Data with over 62,884 rows from the year 1935 to 2021
+
+**Data Cleaning & Analysis**-PowerBI
+
+**Data Visualization** -PowerBI
+
+# Questions
+1. Overall Performance (KPI Tracking)
+- What is our total revenue, profit, quantity sold, and customer count?
+- Are these KPIs growing or declining compared to targets?
+
+2. Trends Over Time (Monthly Analysis)
+How have revenue, profit, quantity, and customer count changed month by
+month since 2020?
+Are there seasonal patterns or months where performance consistently drops?
+
+3. Year-over-Year (YoY) Comparison
+How does performance in the current year compare to previous years?
+What is the YoY growth/decline % for revenue, profit, and customers?
+Are we recovering or still trending downward?
+
+4. Product Performance
+Which products, categories, and subcategories are driving revenue and profit
+growth?
+Which ones are underperforming and contributing to the decline?
+What are the top 10 best-sellers vs. the bottom 10 laggards?
+Are our profit margins shrinking due to rising costs or discounting?
+
+5. Customer Insights
+Who are our customers? (gender, age, geography)
+Are we losing existing customers or failing to attract new ones?
+Which customer segments contribute the most to revenue and profit?
+Are younger or older demographics shifting their buying behavior?
+
+6. Store & Regional Performance
+Which stores, states, and countries are performing well vs. declining?
+Are certain regions driving the overall revenue decline?
+How does store performance vary based on open date (new vs. old stores)
+
+
+# Summary of Findings
 
